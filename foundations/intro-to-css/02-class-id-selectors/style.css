@@ -7,3 +7,14 @@
     background-color: #90ee90;
     font-size: 24px;
     font-weight: bold;}
+
+.odd,
+.odd-plus{
+    background-color: hsl(6, 93%, 71%);
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+
+.odd-plus{
+    font-size: 24px;
+}
